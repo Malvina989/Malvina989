@@ -1,5 +1,5 @@
 
->#  ✨ $\textcolor{cyan} \ \textcolor{cyan}{Bienvenidos}\ \textcolor{cyan}{a}\ \textcolor{cyan}{mi}\ \textcolor{cyan}{perfil}$ ✨
+>#  ✨ Bienvenidos a mi perfil ✨
 > <br/>  <br/>
 
 
